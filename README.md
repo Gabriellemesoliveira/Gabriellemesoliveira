@@ -12,11 +12,11 @@
 
 ###
 
-<h5 align="left">Atualmente estou estudando Análise e Desenvolvimento de Sistemas na Estácio.</h5>
+<h5 align="left">* Atualmente estou estudando Análise e Desenvolvimento de Sistemas na Estácio.</h5>
 
 ###
 
-<h5 align="left">Estou em busca da minha primeira oportunidade de emprego na área da tecnologia. Meu sonho é um dia trabalhar como programador.</h5>
+<h5 align="left">* Estou em busca da minha primeira oportunidade de emprego na área da tecnologia. Meu sonho é um dia trabalhar como programador.</h5>
 
 ###
 
