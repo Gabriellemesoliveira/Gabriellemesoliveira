@@ -1,16 +1,38 @@
-### Hi there 👋
+<h1 align="center">Seja Bem-vindo(a) ao meu perfil</h1>
 
-<!--
-**Gabriellemesoliveira/Gabriellemesoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h5 align="left">Olá👋, Sou o Ga! Um apaixonado por games e estudante de Análise e Desenvolvimento de Sistemas</h5>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img height="200" src="https://www.gifcen.com/wp-content/uploads/2022/08/zoro-gif-7.gif"  />
+</div>
+
+###
+
+<h5 align="left">Atualmente estou estudando Análise e Desenvolvimento de Sistemas na Estácio.</h5>
+
+###
+
+<h5 align="left">Estou em busca da minha primeira oportunidade de emprego na área da tecnologia. Meu sonho é um dia trabalhar como programador.</h5>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/gabriel-lemes-de-oliveira-b0494b192/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/g4hsp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+## Portfolio:
+- EM BREVE
+  
+## 🔥 Skills:
+- EM BREVE
