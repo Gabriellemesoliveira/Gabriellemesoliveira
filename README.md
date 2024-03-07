@@ -16,7 +16,7 @@
 
 ###
 
-<h5 align="left">Estou em busca da minha primeira oportunidade de emprego na área da tecnologia. Meu sonho é um dia trabalhar como programador.</h5>
+- Estou em busca da minha primeira oportunidade de emprego na área da tecnologia. Meu sonho é um dia trabalhar como programador.
 
 ###
 
