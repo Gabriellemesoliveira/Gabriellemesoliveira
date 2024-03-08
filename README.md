@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">Olá👋, Sou o Ga! Um apaixonado por games e estudante de Análise e Desenvolvimento de Sistemas</h5>
+<h5 align="left">Olá👋, Sou o Gabriel! Um apaixonado por games e estudante de Análise e Desenvolvimento de Sistemas</h5>
 
 ###
 
