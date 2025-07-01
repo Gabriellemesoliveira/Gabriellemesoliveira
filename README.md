@@ -9,7 +9,7 @@
 
 📋 Linguagens: 
 <div style="display: inline_block">
-  <img align="center" title="Javascript" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /></div>
 </div> <br />   
   
  
