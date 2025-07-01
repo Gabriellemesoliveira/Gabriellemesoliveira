@@ -29,7 +29,6 @@
   <img align="center" title="PremierePro" alt="PremierePro" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg" />
   <img align="center" title="AdobePhotoshop" alt="AdobePhotoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
   <img align="center" title="Vitejs" alt="Vitejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
-  <img align="center" title="Canva" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
   <img align="center" title="Illustrator" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
 </div>
     
@@ -40,10 +39,10 @@
 
 ##
 <p align="center">
-  <a href="https://www.youtube.com/@spg4h" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.instagram.com/g4hsp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.twitch.tv/g4h__" target="_blank"><img src="https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-  <a href="mailto:contatogabriellemesdeoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href='https://www.youtube.com/@spg4h' target="_blank"><img alt='YOUTUBE' src='https://img.shields.io/badge/Youtube-100000?style=for-the-badge&logo=YOUTUBE&logoColor=white&labelColor=90ff93&color=90ff93'/></a>
+  <a href='https://www.instagram.com/g4hsp/' target="_blank"><img alt='INSTAGRAM' src='https://img.shields.io/badge/INSTAGRAM-100000?style=for-the-badge&logo=INSTAGRAM&logoColor=white&labelColor=90ff93&color=90ff93'/></a>
+  <a href='https://www.twitch.tv/g4h__' target="_blank"><img alt='twitch' src='https://img.shields.io/badge/twitch-100000?style=for-the-badge&logo=twitch&logoColor=white&labelColor=90ff93&color=90ff93'/></a>
+  <a href='mailto:contatogabriellemesdeoliveira@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/GMAIL-100000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=90ff93&color=90ff93'/></a>
   <a href="https://www.linkedin.com/in/gabriel-lemes-de-oliveira-b0494b192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
