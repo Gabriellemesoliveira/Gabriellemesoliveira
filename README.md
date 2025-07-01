@@ -9,7 +9,7 @@
 
 📋 Linguagens: 
 <div style="display: inline_block">
-  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /></div>
+  <div style="display: flex; align-items: flex-start;"><img src="https://cdn.discordapp.com/attachments/1239377646387986443/1389439074846380203/icons8-javascript-96.png?ex=68649f79&is=68634df9&hm=e4b46bf04446f23b0eab4dc89eec5e3087831e68eef648b6e3423ef27d2b5a58&" alt="icon" width="52" height="52" /></div>
 </div> <br />   
   
  
