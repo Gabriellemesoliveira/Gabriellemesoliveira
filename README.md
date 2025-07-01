@@ -15,7 +15,7 @@
  
 🎨 Frameworks e Bibliotecas:
 <div style="display: inline_block">
-  <img align="center" title="React" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" title="React" alt="React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>  <br />  
      
     
