@@ -1,7 +1,7 @@
 <h1 align="center">Seja Bem-vindo(a) ao meu perfil</h1>
 
 <div align="center">
-  <img height="300" src="https://cdn.discordapp.com/attachments/1239377646387986443/1389426033706532924/zoro-gif-7.gif?ex=68649354&is=686341d4&hm=cfc70ba425ab234b6822d6866a1cd0e5658f7f2334b041d51c7ec04808600fc3&"  />
+  <img height="250" src="https://cdn.discordapp.com/attachments/1239377646387986443/1389426033706532924/zoro-gif-7.gif?ex=68649354&is=686341d4&hm=cfc70ba425ab234b6822d6866a1cd0e5658f7f2334b041d51c7ec04808600fc3&"  />
 </div>
 
 ##
