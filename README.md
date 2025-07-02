@@ -1,7 +1,7 @@
 <h1 align="center">Seja Bem-vindo(a) ao meu perfil</h1>
 
 <div align="center">
-  <img height="250" src="https://cdn.discordapp.com/attachments/1239377646387986443/1389426033706532924/zoro-gif-7.gif?ex=68649354&is=686341d4&hm=cfc70ba425ab234b6822d6866a1cd0e5658f7f2334b041d51c7ec04808600fc3&"  />
+  <img height="250" src="https://cdn.discordapp.com/attachments/1239377646387986443/1389763641070583909/icegif-6.gif?ex=6865cdc0&is=68647c40&hm=295a8ea3deebb5eb482f6c931f124c0dd6f414f4d2f5916270102fb9bafd8689&"  />
 </div>
 
 ##
@@ -39,9 +39,10 @@
 
 ##
 <p align="center">
-  <a href='https://www.youtube.com/@spg4h' target="_blank"><img alt='YOUTUBE' src='https://img.shields.io/badge/Youtube-100000?style=for-the-badge&logo=YOUTUBE&logoColor=white&labelColor=90ff93&color=90ff93'/></a>
-  <a href='https://www.instagram.com/g4hsp/' target="_blank"><img alt='INSTAGRAM' src='https://img.shields.io/badge/INSTAGRAM-100000?style=for-the-badge&logo=INSTAGRAM&logoColor=white&labelColor=90ff93&color=90ff93'/></a>
-  <a href='https://www.twitch.tv/g4h__' target="_blank"><img alt='twitch' src='https://img.shields.io/badge/twitch-100000?style=for-the-badge&logo=twitch&logoColor=white&labelColor=90ff93&color=90ff93'/></a>
-  <a href='mailto:contatogabriellemesdeoliveira@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/GMAIL-100000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=90ff93&color=90ff93'/></a>
+  <a href='https://www.youtube.com/@spg4h' target="_blank"><img alt='youtube' src='https://img.shields.io/badge/YOUTUBE-100000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=f19450&color=f19450'/></a>
+  <a href='https://www.instagram.com/g4hsp/' target="_blank"><img alt='INSTAGRAM' src='https://img.shields.io/badge/INSTAGRAM-100000?style=for-the-badge&logo=INSTAGRAM&logoColor=white&labelColor=f19450&color=f19450'/></a>
+  <a href='https://www.twitch.tv/g4h__' target="_blank"><img alt='TWITCH' src='https://img.shields.io/badge/TWITCH-100000?style=for-the-badge&logo=TWITCH&logoColor=white&labelColor=f19450&color=f19450'/></a>
+  <a href='mailto:contatogabriellemesdeoliveira@gmail.com' target="_blank"><img alt='GMAIL' src='https://img.shields.io/badge/GMAIL-100000?style=for-the-badge&logo=GMAIL&logoColor=white&labelColor=f19450&color=f19450'/></a>
+  <a href='https://www.linkedin.com/in/gabriel-lemes-de-oliveira-b0494b192/' target="_blank"><img alt='LINKEDIN' src='https://img.shields.io/badge/LINKEDIN-100000?style=for-the-badge&logo=LINKEDIN&logoColor=white&labelColor=f19450&color=f19450'/></a>
 </p>
 
