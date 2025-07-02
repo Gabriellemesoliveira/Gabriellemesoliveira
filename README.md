@@ -44,5 +44,6 @@
   <a href='https://www.twitch.tv/g4h__' target="_blank"><img alt='TWITCH' src='https://img.shields.io/badge/TWITCH-100000?style=for-the-badge&logo=TWITCH&logoColor=white&labelColor=f19450&color=f19450'/></a>
   <a href='mailto:contatogabriellemesdeoliveira@gmail.com' target="_blank"><img alt='GMAIL' src='https://img.shields.io/badge/GMAIL-100000?style=for-the-badge&logo=GMAIL&logoColor=white&labelColor=f19450&color=f19450'/></a>
   <a href='https://www.linkedin.com/in/gabriel-lemes-de-oliveira-b0494b192/' target="_blank"><img alt='LINKEDIN' src='https://img.shields.io/badge/LINKEDIN-100000?style=for-the-badge&logo=LINKEDIN&logoColor=white&labelColor=f19450&color=f19450'/></a>
+  <a href='https://steamcommunity.com/id/PilardasChamas/' target="_blank"><img alt='steam' src='https://img.shields.io/badge/STEAM-100000?style=for-the-badge&logo=steam&logoColor=white&labelColor=f19450&color=f19450'/></a>
 </p>
 
